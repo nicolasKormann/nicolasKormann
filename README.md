@@ -4,25 +4,28 @@ I'm Nícolas Kormann</h1>
 <br>
 
 ## 🧑‍💻&nbsp; About me:
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260" />
 
 <p align="justify">Passionate about technologies, I recently decided to put aside the law practice to dedicate fully to my passion for programming. Currently, I study web development daily with constant learning and evolution.</p>
 
 ## 🛠&nbsp; Tech Stack:
-<div style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="40" align="center"/>  
+<div style="display: inline_block">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="40" align="center">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50" height="40" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="40" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50" height="40" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="40" align="center">
  </div> 
  <br>
-  
- <!--
+ 
+<!-- 
 ## ⚙️ &nbsp; GitHub Analytics
+<div style="display: inline_block">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasKormann&show_icons=true&theme=dracula" alt="nicolaskormann's stats" height="200" align="center"> &nbsp
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasKormann&theme=dracula&hide_langs_below=1" />
- -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasKormann&theme=dracula&hide_langs_below=1" height="200" align="center">
+</div> 
+-->
  
  
 ## 🌐&nbsp; Let's connect:
