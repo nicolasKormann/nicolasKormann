@@ -6,7 +6,7 @@ I'm Nícolas Kormann</h1>
 ## 🧑‍💻&nbsp; About me:
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
 
-<p>Passionate about technologies, I recently decided to put aside the law practice to dedicate fully to my passion for programming. Currently, I study web development daily with constant learning and evolution.</p>
+<p align="justify">Passionate about technologies, I recently decided to put aside the law practice to dedicate fully to my passion for programming. Currently, I study web development daily with constant learning and evolution.</p>
 
 ## 🛠&nbsp; Tech Stack:
 <div style="display: inline_block"><br>
