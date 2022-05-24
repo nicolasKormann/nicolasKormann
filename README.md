@@ -4,7 +4,7 @@ I'm Nícolas Kormann</h1>
 <br>
 
 ## 🧑‍💻&nbsp; About me:
-<img align="right" height="590em" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="260" />
+<img align="right" src="giphy.webp" width="400" height="260">
 
 <p align="left">Passionate about technologies, I recently decided to put aside the law practice to dedicate fully to my passion for programming. Currently, I study web development daily with constant learning and evolution.</p>
 
