@@ -18,14 +18,14 @@ I'm Nícolas Kormann</h1>
  </div> 
  <br>
  
-<!-- 
+
 ## ⚙️ &nbsp; GitHub Analytics
 <div style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasKormann&show_icons=true&theme=dracula" alt="nicolaskormann's stats" height="200" align="center"> &nbsp
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasKormann&theme=dracula&hide_langs_below=1" height="200" align="center">
 </div> 
--->
+
  
  
 ## 🌐&nbsp; Let's connect:
