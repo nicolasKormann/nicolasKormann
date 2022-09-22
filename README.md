@@ -1,6 +1,5 @@
-<h1 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
-<br>
-I'm Nícolas Kormann</h1>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> I'm Nícolas Kormann
+
 <br>
 
 ## 🧑‍💻&nbsp; About me:
@@ -10,20 +9,18 @@ I'm Nícolas Kormann</h1>
 
 ## 🛠&nbsp; Tech Stack:
 <div style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="40" align="center">    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" width="50" height="40" align="center">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="50" height="40" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="40" align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30" align="center">    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" width="40" height="30" align="center">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="40" height="30" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="30" align="center">  
  </div> 
- <br>
- 
- 
+ <br> 
 
 ## ⚙️ &nbsp; GitHub Analytics
 <div style="display: inline_block">
