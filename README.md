@@ -14,6 +14,7 @@ I'm Nícolas Kormann</h1>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="40" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="40" align="center">    
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50" height="40" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="40" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" width="50" height="40" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" width="50" height="40" align="center">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="50" height="40" align="center">
@@ -21,6 +22,8 @@ I'm Nícolas Kormann</h1>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="40" align="center">  
  </div> 
  <br>
+ 
+ 
 
 ## ⚙️ &nbsp; GitHub Analytics
 <div style="display: inline_block">
