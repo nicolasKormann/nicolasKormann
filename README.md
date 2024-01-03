@@ -5,7 +5,12 @@
 ## 🧑‍💻&nbsp; About me:
 <img align="right" src="giphy.webp" width="400" height="260">
 
-<p align="left">Passionate about technologies, I recently decided to put aside the law practice to dedicate fully to my passion for programming. Currently, I study web development daily with constant learning and evolution.</p>
+<p align="left">Lawyer turned passionate technology professional at
+the intersection of law and innovation. With over 5
+years of experience in corporate law, compliance, and
+LGPD (Brazilian General Data Protection Law), I
+embarked on a new path in 2022 with a focus on
+cybersecurity and development.</p>
 
 ## 🛠&nbsp; Tech Stack:
 <div style="display: inline_block">
