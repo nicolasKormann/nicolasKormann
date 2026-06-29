@@ -1,6 +1,4 @@
 <h1 align="center">Nícolas Kormann</h1>
-<p align="center"><strong>Pentester · Red Team</strong></p>
-<p align="center"><em>Breaking in — with authorization — to make defenses stronger.</em></p>
 
 ```bash
 $ whoami
@@ -28,6 +26,10 @@ That builder-and-breaker mindset means I can move fluidly between understanding 
 is meant to work and *how* to make it work against itself, and write custom tooling when an
 off-the-shelf option doesn't fit the engagement.
 
+I'm also a heavy believer in **automation** — I genuinely enjoy it and it's one of my strengths.
+If a task is repetitive, I'd rather script it: faster recon, repeatable workflows, and tooling
+that scales the boring parts of an engagement so I can focus on the interesting ones.
+
 ---
 
 ## Skills & Arsenal
@@ -39,6 +41,7 @@ off-the-shelf option doesn't fit the engagement.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Offensive tooling**
@@ -60,6 +63,8 @@ off-the-shelf option doesn't fit the engagement.
 ![Network & Infra](https://img.shields.io/badge/Network_&_Infra-8A2BE2?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-8A2BE2?style=for-the-badge)
 ![Source Code Review](https://img.shields.io/badge/Source_Code_Review-8A2BE2?style=for-the-badge)
+![Offensive AI Security](https://img.shields.io/badge/Offensive_AI_Security-8A2BE2?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge)
 ![OSINT](https://img.shields.io/badge/OSINT-8A2BE2?style=for-the-badge)
 
 ---
@@ -87,9 +92,7 @@ off-the-shelf option doesn't fit the engagement.
 
 ## Connect
 
-<!-- edit: replace the # and YOUR-* placeholders with your real handles/URLs -->
+<!-- edit: replace the # in the LinkedIn link with your real profile URL -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Website-0F1419?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nicolas.kormann@proton.me)
