@@ -92,7 +92,5 @@ that scales the boring parts of an engagement so I can focus on the interesting 
 
 ## Connect
 
-<!-- edit: replace the # in the LinkedIn link with your real profile URL -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kormann/)
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nicolas.kormann@proton.me)
