@@ -1,96 +1,61 @@
-<h1 align="center">Nícolas Kormann</h1>
+<div align="center">
+
+# Nícolas Kormann
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=460&color=00C853&lines=Offensive+Security;Pentester+%C2%B7+Red+Team;builder+turned+breaker;automate%3D'everything+repetitive'" alt="Offensive Security · Pentester · Red Team">
+
+</div>
 
 ```bash
 $ whoami
-> Nícolas Kormann — Pentester / Red Team
+builder turned breaker: I read code, understand it, and turn its logic against itself
 
-$ cat focus.txt
-> Offensive security. I think like an attacker so blue teams
-> don't have to find out the hard way.
-
-$ cat edge.txt
-> Developer background. I don't just run tools against code —
-> I read it, understand it, and turn its logic against itself.
+$ alias
+automate='everything repetitive'
 ```
 
----
+## About
 
-## About me
+I work in **offensive security** as a **Pentester / Red Team** operator. My edge comes from a
+**developer background**: since I know how software is built, I don't just point tools at a
+target. I read the code behind it and spot flawed logic, insecure patterns, and abusable
+functionality that tools alone tend to miss.
 
-I work in **offensive security** as a **Pentester / Red Team** operator. My differentiator is a
-**developer background**: I came to security as someone who builds software, so I read and
-exploit code with more depth — spotting flawed logic, insecure patterns, and abusable
-functionality that a tool alone won't flag.
+I'm also big on **automation**. It's something I genuinely enjoy and do well: if a task is
+repetitive, it gets scripted. That means faster recon, repeatable workflows, and custom tooling
+whenever an off-the-shelf option doesn't fit the engagement.
 
-That builder-and-breaker mindset means I can move fluidly between understanding *how* a system
-is meant to work and *how* to make it work against itself, and write custom tooling when an
-off-the-shelf option doesn't fit the engagement.
-
-I'm also a heavy believer in **automation** — I genuinely enjoy it and it's one of my strengths.
-If a task is repetitive, I'd rather script it: faster recon, repeatable workflows, and tooling
-that scales the boring parts of an engagement so I can focus on the interesting ones.
-
----
-
-## Skills & Arsenal
-
-<!-- edit: these are starter suggestions — trim or replace to match what you actually use -->
+## Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjNTM5MUZFIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE4MSAyLjk3NGMuNTY4IDAgLjkyMy40NjMuNzkyIDEuMDM1bC0zLjY1OSAxNS45ODJjLS4xMy41NzItLjY5NyAxLjAzNS0xLjI2NSAxLjAzNUguODE5Yy0uNTY4IDAtLjkyMy0uNDYzLS43OTItMS4wMzVMMy42ODYgNC4wMDljLjEzLS41NzIuNjk3LTEuMDM1IDEuMjY1LTEuMDM1em0tOC4zNzUgOS4zNDZjLjI1MS0uMzk0LjIyNy0uOTA1LS4wOS0xLjI0M0w5LjEyMiA1LjEyNWMtLjM4LS40MDQtMS4wMzctLjQwNy0xLjQ2Ni0uMDAzLS40MjkuNDAyLS40NjggMS4wNTYtLjA4OCAxLjQ2bDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzc0Yy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MWMuMjgtLjE5Ni40MzgtLjM2NS41MTQtLjUyem0tMi43OTYgNC4zOTlhLjkyOC45MjggMCAwMC0uOTM0LjkyM2MwIC41MS40MTguOTIzLjkzNC45MjNoNC40MzNhLjkyOC45MjggMCAwMC45MzQtLjkyMy45MjguOTI4IDAgMDAtLjkzNC0uOTIzeiIvPjwvc3ZnPg%3D%3D)
 
-**Offensive tooling**
+**Arsenal:** `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Nuclei` `Linux`
 
-<!-- edit: swap these for the tools in your real workflow -->
+**Focus:** `Web Apps` `Network & Infra` `Active Directory` `Code Review` `Offensive AI Security` `Automation` `OSINT`
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-0F1419?style=for-the-badge&logo=projectdiscovery&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Certifications & Education
 
-**Focus areas**
+- **Pós Tech in Offensive Cyber Security · Red Team Ops**, FIAP (2026)
+- **DCPT** (Desec Certified Pentester)
+- **CompTIA Security+**
+- **ISO/IEC 27001**
 
-<!-- edit: keep the domains you actually operate in -->
+## Activity
 
-![Web App Pentesting](https://img.shields.io/badge/Web_App_Pentesting-8A2BE2?style=for-the-badge)
-![Network & Infra](https://img.shields.io/badge/Network_&_Infra-8A2BE2?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-8A2BE2?style=for-the-badge)
-![Source Code Review](https://img.shields.io/badge/Source_Code_Review-8A2BE2?style=for-the-badge)
-![Offensive AI Security](https://img.shields.io/badge/Offensive_AI_Security-8A2BE2?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-8A2BE2?style=for-the-badge)
-
----
-
-## Certifications
-
-![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-005571?style=for-the-badge&logo=iso&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)
-![DCPT](https://img.shields.io/badge/DCPT_—_Desec_Certified_Pentester-0F1419?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-- **ISO/IEC 27001** — Information Security Management
-- **CompTIA Security+** — Core security fundamentals
-- **DCPT** — Desec Certified Pentester
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nicolaskormann&show_icons=true&theme=midnight-purple&hide_border=true" alt="Nícolas Kormann's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskormann&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
-</p>
-
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasKormann/nicolasKormann/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/nicolasKormann/nicolasKormann/output/github-snake.svg" alt="Contribution graph snake animation">
+  </picture>
+</div>
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kormann/)
-[![Proton Mail](https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:nicolas.kormann@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kormann/)
+[![Proton Mail](https://img.shields.io/badge/nicolas.kormann@proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:nicolas.kormann@proton.me)
