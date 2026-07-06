@@ -8,7 +8,7 @@
 
 ```bash
 $ whoami
-builder turned breaker — I read code, understand it, and turn its logic against itself
+builder turned breaker: I read code, understand it, and turn its logic against itself
 
 $ alias
 automate='everything repetitive'
@@ -16,14 +16,14 @@ automate='everything repetitive'
 
 ## About
 
-I work in **offensive security** as a **Pentester / Red Team** operator. My edge is a
-**developer background**: I don't just point tools at a target — I understand how the software
-was built, which makes flawed logic, insecure patterns, and abusable functionality far easier
-to find and exploit.
+I work in **offensive security** as a **Pentester / Red Team** operator. My edge comes from a
+**developer background**: since I know how software is built, I don't just point tools at a
+target. I read the code behind it and spot flawed logic, insecure patterns, and abusable
+functionality that tools alone tend to miss.
 
-I'm also big on **automation** — something I genuinely enjoy and do well. If a task is
-repetitive, it gets scripted: faster recon, repeatable workflows, and custom tooling when
-off-the-shelf doesn't fit the engagement.
+I'm also big on **automation**. It's something I genuinely enjoy and do well: if a task is
+repetitive, it gets scripted. That means faster recon, repeatable workflows, and custom tooling
+whenever an off-the-shelf option doesn't fit the engagement.
 
 ## Stack
 
@@ -33,16 +33,16 @@ off-the-shelf doesn't fit the engagement.
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=powershell&logoColor=5391FE)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjNTM5MUZFIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BUG93ZXJTaGVsbDwvdGl0bGU%2BPHBhdGggZD0iTTIzLjE4MSAyLjk3NGMuNTY4IDAgLjkyMy40NjMuNzkyIDEuMDM1bC0zLjY1OSAxNS45ODJjLS4xMy41NzItLjY5NyAxLjAzNS0xLjI2NSAxLjAzNUguODE5Yy0uNTY4IDAtLjkyMy0uNDYzLS43OTItMS4wMzVMMy42ODYgNC4wMDljLjEzLS41NzIuNjk3LTEuMDM1IDEuMjY1LTEuMDM1em0tOC4zNzUgOS4zNDZjLjI1MS0uMzk0LjIyNy0uOTA1LS4wOS0xLjI0M0w5LjEyMiA1LjEyNWMtLjM4LS40MDQtMS4wMzctLjQwNy0xLjQ2Ni0uMDAzLS40MjkuNDAyLS40NjggMS4wNTYtLjA4OCAxLjQ2bDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzc0Yy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MWMuMjgtLjE5Ni40MzgtLjM2NS41MTQtLjUyem0tMi43OTYgNC4zOTlhLjkyOC45MjggMCAwMC0uOTM0LjkyM2MwIC41MS40MTguOTIzLjkzNC45MjNoNC40MzNhLjkyOC45MjggMCAwMC45MzQtLjkyMy45MjguOTI4IDAgMDAtLjkzNC0uOTIzeiIvPjwvc3ZnPg%3D%3D)
 
-**Arsenal** — `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Nuclei` `Linux`
+**Arsenal:** `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Nuclei` `Linux`
 
-**Focus** — `Web Apps` `Network & Infra` `Active Directory` `Code Review` `Offensive AI Security` `Automation` `OSINT`
+**Focus:** `Web Apps` `Network & Infra` `Active Directory` `Code Review` `Offensive AI Security` `Automation` `OSINT`
 
 ## Certifications & Education
 
-- **Pós Tech — Offensive Cyber Security · Red Team Ops** — FIAP · 2026
-- **DCPT** — Desec Certified Pentester
+- **Pós Tech in Offensive Cyber Security · Red Team Ops**, FIAP (2026)
+- **DCPT** (Desec Certified Pentester)
 - **CompTIA Security+**
 - **ISO/IEC 27001**
 
