@@ -2,7 +2,7 @@
 
 # Nícolas Kormann
 
-**Offensive Security** · Pentester · Red Team
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=460&color=00C853&lines=Offensive+Security;Pentester+%C2%B7+Red+Team;builder+turned+breaker;automate%3D'everything+repetitive'" alt="Offensive Security · Pentester · Red Team">
 
 </div>
 
@@ -46,16 +46,12 @@ off-the-shelf doesn't fit the engagement.
 - **CompTIA Security+**
 - **ISO/IEC 27001**
 
-## Stats
+## Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nicolasKormann&show_icons=true&theme=github_dark_dimmed&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasKormann&show_icons=true&hide_border=true" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasKormann&layout=compact&theme=github_dark_dimmed&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasKormann&layout=compact&hide_border=true" alt="Top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasKormann/nicolasKormann/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/nicolasKormann/nicolasKormann/output/github-snake.svg" alt="Contribution graph snake animation">
   </picture>
 </div>
 
